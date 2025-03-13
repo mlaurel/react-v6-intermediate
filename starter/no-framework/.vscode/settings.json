@@ -1,0 +1,11 @@
+{
+  "server/main.js": {
+    "github.copilot.enable": false
+  },
+  "server/server.js": {
+    "github.copilot.enable": false
+  },
+  "server/App.jsx": {
+    "github.copilot.enable": false
+  }
+}
