@@ -1,0 +1,11 @@
+{
+  "page.js": {
+    "github.copilot.enable": false
+  },
+  "[javascript]": {
+    "github.copilot.enable": false
+  },
+  "[typescript]": {
+    "github.copilot.enable": false
+  }
+}

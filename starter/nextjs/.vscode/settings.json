@@ -1,5 +1,0 @@
-{
-  "src/teacher/*.js": {
-    "github.copilot.enable": false
-  }
-}
