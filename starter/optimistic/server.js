@@ -2,7 +2,7 @@ import http from "node:http";
 import deepThoughts from "./deepThoughts.js";
 
 const DELAY = 5000; // 5 seconds
-const ERROR_RATE = 0.2; // 20% of requests will fail
+const ERROR_RATE = 0.9; // 20% of requests will fail
 
 let thoughts = [...deepThoughts];
 
